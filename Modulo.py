@@ -1,0 +1,13 @@
+print(12%4)
+print(13%4)
+print(14%4)
+print(15%4)
+print(16%4)
+print(17%4)
+print(18%4)
+print(19%4)
+print(20%4, end="\n\n")
+
+print(14//4)
+print(14.0//4)
+print(14.0/4)
