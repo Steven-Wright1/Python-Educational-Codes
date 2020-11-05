@@ -1,9 +1,9 @@
-John = 3
-Mary = 5
-Adam = 6
+xBar = 100       #integer variable
+print(xBar)
 
-print(John, Mary, Adam, sep=",", end="\n")
+xBar1 = '100'   #string variable
+print(xBar1)
 
-total_apples = John + Mary + Adam
+opVar = xBar // 20     #integer division //
+print(opVar)
 
-print(total_apples)
